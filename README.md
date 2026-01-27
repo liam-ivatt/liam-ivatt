@@ -2,4 +2,4 @@
 
 ## 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vue,mongodb,postgres,nodejs,java,python,sklearn,opencv,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,mongodb,postgres,nodejs,java,python,sklearn,opencv)](https://skillicons.dev)
