@@ -7,4 +7,3 @@
 ## Github Stats
 
 ![liam-ivatt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liam-ivatt&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) 
-![liam-ivatt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=liam-ivatt&theme=vue-dark&hide_border=false)
