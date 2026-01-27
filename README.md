@@ -1,6 +1,5 @@
-Computer Science student from UEA
+<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-<!---
-liam-ivatt/liam-ivatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Technologies & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vue,mongodb,postgres,nodejs,java,python,sklearn,opencv,flutter&perline=3)](https://skillicons.dev)
