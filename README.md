@@ -3,7 +3,3 @@
 ## 🔧 Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=vue,mongodb,postgres,nodejs,java,python,sklearn,opencv)](https://skillicons.dev)
-
-## Github Stats
-
-![liam-ivatt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liam-ivatt&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) 
