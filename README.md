@@ -1,8 +1,6 @@
 # Hi — I’m Liam Ivatt
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=liam-ivatt&show_icons=true&theme=gruvbox)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liam-ivatt&layout=compact&theme=gruvbox)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liam-ivatt&theme=gruvbox)
 
 Final-year Computing Science student at the University of East Anglia - I build practical ML and visualization projects, with a focus on computer vision and 3D simulation.
 
