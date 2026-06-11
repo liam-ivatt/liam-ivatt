@@ -11,19 +11,19 @@ Final-year Computing Science student at the University of East Anglia. I build p
 
 ## Tech & Tools
 
-- Frontend
+# Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=vue,vuetify,css,html,js,threejs,ts&theme=dark)](https://skillicons.dev)
 
-- Backend
+# Backend
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,flask,express&theme=dark)](https://skillicons.dev)
 
-- Databases
+# Databases
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=light)](https://skillicons.dev)
 
-- General
+# General
 
 [![My Skills](https://skillicons.dev/icons?i=opencv,sklearn,tensorflow,matplotlib&theme=light)](https://skillicons.dev)
 
