@@ -22,4 +22,4 @@ Final-year Computing Science student at the University of East Anglia. I build p
 
 I’m open to collaborations, internships, and research opportunities. Feel free to reach out!
 
-- Liam
+Liam
